@@ -1,0 +1,6 @@
+{
+  "name": "Spring Boot Postgres Heroku",
+  "description": "A Spring Boot Hello Potsgresql app for demonstrating deployment on Heroku",
+  "repository": "https://github.com/callicoder/spring-boot-heroku-deployment-example",
+  "keywords": ["Spring Boot", "Heroku", "Deployment"]
+}
