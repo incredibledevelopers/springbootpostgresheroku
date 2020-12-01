@@ -7,7 +7,7 @@
 	<groupId>com.devglan</groupId>
 	<artifactId>user-portal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>user-portal</name>
 	<description>Demo project for Spring Boot</description>
